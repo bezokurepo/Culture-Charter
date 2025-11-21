@@ -1,5 +1,5 @@
 # Culture-Charter
-bezoku recognises and respects the sovereignty principles stipulated in the "Convention on the Protection and Promotion of the Diversity of Cultural Expressions" adopted by the General Conference of the United Nations Educational, Scientific and Cultural Organization in October 2005, as they relate to language technology data and models.
+bezoku recognises and respects the sovereignty principles in the "Convention on the Protection and Promotion of the Diversity of Cultural Expressions" adopted by the General Conference of the United Nations Educational, Scientific and Cultural Organization in October 2005, as they relate to language technology data and models.
 
 Specifically, taken from the Convention's preamble, 
 
@@ -7,6 +7,6 @@ Specifically, taken from the Convention's preamble,
 
 "4. Principle of international solidarity and cooperation - International cooperation and solidarity should be aimed at enabling countries, especially developing countries, to create and strengthen their means of cultural expression, including their cultural industries, whether nascent or established, at the local, national and international levels."
 
-Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative or extractive, and always act morally and ethically in accordance with generally accepted arrangements that recognise legal and moral rights, expressed orally or in text, assigned to cultural groups across the globe.
+Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative or extractive, and always act morally and ethically in accordance with generally accepted arrangements that recognise the legal and moral rights, relating to oral or textual training data, assigned to sovereign and tribal communities across the globe.
 
-Further principles will follow as the service evolves and we learn more from cultural leaders.
+Further principles will follow as the service evolves and we learn from diverse cultural groups, some who may eschew modern technology and wish for their voices and text be excluded from training data.
