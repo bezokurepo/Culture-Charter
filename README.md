@@ -9,4 +9,4 @@ Specifically, taken from the Convention's preamble,
 
 Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative or extractive, and always act morally and ethically in accordance with generally accepted arrangements that recognise the legal and moral rights, relating to oral or textual training data, assigned to sovereign and tribal communities across the globe.
 
-Further principles will follow as the service evolves and we learn from diverse cultural groups, some who may eschew modern technology and wish for their voices and text be excluded from training data.
+Further principles will follow as the service evolves and we learn from diverse cultural groups, sincouding groups who eschew modern technology and wish for their voices and text be excluded from training data.
