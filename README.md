@@ -10,8 +10,8 @@ bezoku also recognises and plans to strictly adhere to the current IP definition
 "Many Indigenous Peoples, local communities and governments seek intellectual property (IP) protection for traditional knowledge (TK) and traditional cultural expressions (TCEs) as intangible assets. Such assets can range from traditional medicine and environmental knowledge to art, symbols and music."
 (see this link for more - https://www.wipo.int/en/web/traditional-knowledge
 
-Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative, extractive or disrepsectful. Our goal is to act morally and ethically in accordance with generally accepted arrangements that recognise legal and moral rights, relating to oral or textual training data relating to traditional knowledge and traditional cultural expressions or symbols, assigned or inferred to sovereign and tribal communities across the globe.
+Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative, extractive or disrespectful. Our goal is to act morally and ethically in accordance with generally accepted principles that recognise legal and moral rights, relating to oral or textual training data relating to traditional knowledge and cultural expressions or symbols, assigned or inferred to sovereign or indigenous communities.
 
-Further principles will follow as the service evolves and we learn from diverse cultural groups, incouding groups who eschew modern technology and wish for their voices and text be excluded from training data.
+Further principles will follow as the service evolves and we learn from diverse cultural groups, including groups who eschew modern technology and any wishes for their voices and text be excluded from training data.
 
 If you have any questions regarding this policy, contact ian.gilmour@bezoku.ai
