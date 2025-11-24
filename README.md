@@ -6,7 +6,7 @@ Specifically, taken from the Convention's preamble,
 
 "4. Principle of international solidarity and cooperation - International cooperation and solidarity should be aimed at enabling countries, especially developing countries, to create and strengthen their means of cultural expression, including their cultural industries, whether nascent or established, at the local, national and international levels."
 
-bezoku also recognises and plans to strictly adhere to the current IP definitions outlined by the World Intellectual Property Organization (WIPO), specifically,
+bezoku also recognises and strictly adheres to the current IP definitions outlined by the World Intellectual Property Organization (WIPO), specifically,
 "Many Indigenous Peoples, local communities and governments seek intellectual property (IP) protection for traditional knowledge (TK) and traditional cultural expressions (TCEs) as intangible assets. Such assets can range from traditional medicine and environmental knowledge to art, symbols and music."
 (see this link for more - https://www.wipo.int/en/web/traditional-knowledge
 
