@@ -14,4 +14,6 @@ Our goal is to work respectfully and collaboratively, to avoid acting in any way
 
 Further principles will follow as the service evolves and we learn from diverse cultural groups, including groups who eschew modern technology and any wishes for their voices and text be excluded from training data.
 
+We will NEVER support, however defined, dehumanising and hateful modle training and use cases. bezoku is a place of belonging and cultural expression, but not at the expense of any other community.
+
 If you have any questions regarding this policy, contact ian.gilmour@bezoku.ai
