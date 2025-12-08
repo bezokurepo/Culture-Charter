@@ -10,10 +10,10 @@ bezoku also recognises and strictly adheres to the current IP definitions outlin
 "Many Indigenous Peoples, local communities and governments seek intellectual property (IP) protection for traditional knowledge (TK) and traditional cultural expressions (TCEs) as intangible assets. Such assets can range from traditional medicine and environmental knowledge to art, symbols and music."
 (see this link for more - https://www.wipo.int/en/web/traditional-knowledge
 
-Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative, extractive or disrespectful. We will ethically in accordance with generally accepted principles that recognise legal and moral rights, relating to oral or textual training data relating to traditional knowledge and cultural expressions or symbols, assigned or inferred to sovereign or indigenous communities.
+Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative, extractive or disrespectful. We will act ethically in accordance with generally accepted principles that recognise legal and moral rights assigned to oral or textual training data relating to traditional knowledge and cultural expressions or symbols, assigned or inferred to sovereign or indigenous communities.
 
 Further principles will follow as the service evolves and we learn from diverse cultural groups, including groups who eschew modern technology and any wishes for their voices and text be excluded from training data.
 
-We will NEVER support, however defined, dehumanising and hateful modle training and use cases. bezoku is a place of belonging and cultural expression, but not at the expense of any other community.
+We will NEVER support, however defined, dehumanising and hateful model training and use cases. bezoku is a venue for belonging and cultural expression, but never at the expense of any other community.
 
 If you have any questions regarding this policy, contact ian.gilmour@bezoku.ai
