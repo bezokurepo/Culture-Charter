@@ -12,7 +12,7 @@ bezoku also recognises and strictly adheres to the current IP definitions outlin
 
 Our goal is to work respectfully and collaboratively, to avoid acting in any way that may be construed as exploitative, extractive or disrespectful. We will act ethically in accordance with generally accepted principles that recognise legal and moral rights assigned to oral or textual training data relating to traditional knowledge and cultural expressions or symbols, assigned or inferred to sovereign or indigenous communities.
 
-Further principles will follow as the service evolves and we learn from diverse cultural groups, including groups who eschew modern technology and any wishes for their voices and text be excluded from training data.
+Further principles will follow (see the section on Universal Guidelines for AI (https://github.com/bezokurepo/Culture-Charter/tree/main/UGAI) as the service evolves and we learn from diverse cultural groups, including groups who eschew modern technology and any wishes for their voices and text be excluded from training data.
 
 We will NEVER support, however defined, dehumanising and hateful model training and use cases. bezoku is a venue for belonging and cultural expression, but never at the expense of any other community.
 
